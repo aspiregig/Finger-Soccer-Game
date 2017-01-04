@@ -1,0 +1,4 @@
+sceneSetups:
+- path: assets/fingersoccerkit/C#-Assets/Scenes-C#/BuyCoinPack-c#.unity
+  isLoaded: 1
+  isActive: 1
